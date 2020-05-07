@@ -1,0 +1,3 @@
+table{width: 30%;}
+tr:nth-child(odd){background: black; color: white}
+
